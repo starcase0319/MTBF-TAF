@@ -1,2 +1,2 @@
-# MTBF-TAF
+MTBF
 Basic MTBF With temperature acceleration 
